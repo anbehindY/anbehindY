@@ -51,6 +51,9 @@ I am a Full Stack Developer <img align="center" src="https://media.giphy.com/med
 ---
 
 ### :fire: My Stats 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anbehindY&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anbehindY&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anbehindY&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anbehindY&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
