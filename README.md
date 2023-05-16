@@ -28,7 +28,7 @@ I am a Full Stack Developer <img align="center" src="https://media.giphy.com/med
 - 👯 I’m looking to collaborate on tech blogs
 - 🤔 I’m looking for enhanced coding experience through pair-programming
 - :mailbox:How to reach me: [📧](mailto:yanminthwin@gmail.com)
-- 😄 Pronouns: him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Fish can fly but not for more than 45 seconds.
 
 ---
