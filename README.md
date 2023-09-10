@@ -33,6 +33,28 @@ I am a Full Stack Developer <img align="center" src="https://media.giphy.com/med
 
 ---
 
+### Certifications
+
+<div>
+  <a href='https://www.credential.net/cc08cdec-3c22-46ca-862e-5183cc80b8fc#gs.5im237'>
+    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80242857' width="160" height="160"/>
+  </a>
+  <a href='https://www.credential.net/1e20af02-73ee-4cdb-8340-8216f0e7f00a#gs.5im8br'>
+    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/77792769' width="160" height="160"/>
+  </a>
+  <a href='https://www.credential.net/ffe520be-d8e1-4220-84b7-5547c0712cea#gs.5im6zc'>
+    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74440095' width="160" height="160"/>
+  </a>
+  <a href='https://www.credential.net/e266b958-f218-46ff-8beb-c3dfa9dc66ae#gs.5im55u'>
+    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72351994' width="160" height="160"/>
+  </a>
+  <a href='https://www.credential.net/be68a48b-b8bb-4c69-99b6-c6b315deb05f#gs.5im4bs'>
+    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70101188' width="160" height="160"/>
+  </a>
+</div>
+
+
+
 ### :hammer_and_wrench: Languages and Tools 
 <br>
 
