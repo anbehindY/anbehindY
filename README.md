@@ -37,23 +37,23 @@ I am a Full Stack Developer <img align="center" src="https://media.giphy.com/med
 
 <div>
   <a href='https://www.credential.net/cc08cdec-3c22-46ca-862e-5183cc80b8fc#gs.5im237'>
-    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80242857' width="160" height="160"/>
+    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80242857' width="130" height="130"/>
   </a>
   <a href='https://www.credential.net/1e20af02-73ee-4cdb-8340-8216f0e7f00a#gs.5im8br'>
-    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/77792769' width="160" height="160"/>
+    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/77792769'width="130" height="130"/>
   </a>
   <a href='https://www.credential.net/ffe520be-d8e1-4220-84b7-5547c0712cea#gs.5im6zc'>
-    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74440095' width="160" height="160"/>
+    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74440095' width="130" height="130"/>
   </a>
   <a href='https://www.credential.net/e266b958-f218-46ff-8beb-c3dfa9dc66ae#gs.5im55u'>
-    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72351994' width="160" height="160"/>
+    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72351994' width="130" height="130"/>
   </a>
   <a href='https://www.credential.net/be68a48b-b8bb-4c69-99b6-c6b315deb05f#gs.5im4bs'>
-    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70101188' width="160" height="160"/>
+    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70101188' width="130" height="130"/>
   </a>
 </div>
 
-
+---
 
 ### :hammer_and_wrench: Languages and Tools 
 <br>
@@ -61,12 +61,12 @@ I am a Full Stack Developer <img align="center" src="https://media.giphy.com/med
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="ruby" alt="ruby" width="40" height="40" />
@@ -74,6 +74,8 @@ I am a Full Stack Developer <img align="center" src="https://media.giphy.com/med
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="c#" alt="c#" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+          
 </div>
 
 ---
