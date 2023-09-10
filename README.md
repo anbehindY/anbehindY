@@ -33,7 +33,7 @@ I am a Full Stack Developer <img align="center" src="https://media.giphy.com/med
 
 ---
 
-### Certifications
+### 🎊 Certifications 
 
 <div>
   <a href='https://www.credential.net/cc08cdec-3c22-46ca-862e-5183cc80b8fc#gs.5im237'>
