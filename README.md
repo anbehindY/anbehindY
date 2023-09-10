@@ -23,8 +23,8 @@
 ### 🧑‍💻 About me
 I am a Full Stack Developer <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> from Myanmar.
 
-- 🔭 I’m currently working on Techscape@3AM
-- 🌱 I’m currently learning full-stack web development
+- 🔭 I’m currently working on full-stack web projects
+- 🌱 I’m learning to become a proficient rails developer
 - 👯 I’m looking to collaborate on tech blogs
 - 🤔 I’m looking for enhanced coding experience through pair-programming
 - :mailbox:How to reach me: [📧](mailto:yanminthwin@gmail.com)
