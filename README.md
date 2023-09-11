@@ -21,15 +21,14 @@
 
 ---
 ### 🧑‍💻 About me
-I am a Full Stack Developer <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> from Myanmar.
 
-- 🔭 I’m currently working on full-stack web projects
-- 🌱 I’m learning to become a proficient rails developer
-- 👯 I’m looking to collaborate on tech blogs
-- 🤔 I’m looking for enhanced coding experience through pair-programming
-- :mailbox:How to reach me: [📧](mailto:yanminthwin@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Fish can fly but not for more than 45 seconds.
+Hello there!! My name is Yan Min Thwin but you can also call me Alfie 😄.<br>
+I am a Full-Stack Developer <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> from Myanmar and I've spent 1500+ hours of coding through the Microverse Program.<br>
+I’m currently working on full-stack web projects alongside the remote developers from all over the world 🌏<br><br>
+My techstacks are listed below but the ones that enjoy the most are Ruby on Rails and React 💻 <br><br>
+I’m looking for rails open-source projects to collaborate on 🧑‍🤝‍🧑 <br><br>
+I'm also open to join your team as well as outsourcing for your company, Feel free to reach me out [📫yanminthwin@gmail.com](mailto:yanminthwin@gmail.com)<br><br>
+> ⚡ Fun fact about me: I'd love to spend most of my leisure time doing sports, especially bodybuilding, and calisthenics 💪
 
 ---
 
