@@ -27,7 +27,8 @@ I am a Full-Stack Developer <img align="center" src="https://media.giphy.com/med
 I’m currently working on full-stack web projects alongside the remote developers from all over the world 🌏<br><br>
 My techstack is displayed below but the ones that enjoy the most are Ruby on Rails and React 💻 <br><br>
 I’m looking for rails open-source projects to collaborate on 🧑‍🤝‍🧑 <br><br>
-I'm also open to join your team as well as outsourcing for your company, Feel free to reach me out [📫yanminthwin@gmail.com](mailto:yanminthwin@gmail.com)<br><br>
+I'm also open to join your team as well as outsourcing for your company<br><br>
+Feel free to reach me out [📫yanminthwin@gmail.com](mailto:yanminthwin@gmail.com)<br><br>
 > ⚡ Fun fact about me: I'd love to spend most of my leisure time doing sports, especially bodybuilding, and calisthenics 💪
 
 ---
