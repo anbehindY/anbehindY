@@ -25,6 +25,7 @@
 Hello there!! My name is Yan Min Thwin but you can also call me Alfie 😄<br>
 I am a Full-Stack Developer <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> from Myanmar and I've spent 1500+ hours of coding through the Microverse Program<br>
 I’m currently working on full-stack web projects alongside the remote developers from all over the world 🌏<br><br>
+I'm one of [the top GitHub contributors in Myanmar](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/myanmar.md) 🏆<br><br>
 My techstack is displayed below but the ones that enjoy the most are Ruby on Rails and React 💻 <br><br>
 I’m looking for rails open-source projects to collaborate on 🧑‍🤝‍🧑 <br><br>
 I'm also open to join your team as well as outsourcing for your company<br><br>
