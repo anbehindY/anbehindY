@@ -38,7 +38,7 @@ Feel free to reach me out [📫yanminthwin@gmail.com](mailto:yanminthwin@gmail.c
 
 <div>
    <a href='https://www.credential.net/be68a48b-b8bb-4c69-99b6-c6b315deb05f#gs.5im4bs'>
-    <img src=' https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84931613' width="130" height="130"/>
+    <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84931613' width="130" height="130"/>
   </a>
   <a href='https://www.credential.net/cc08cdec-3c22-46ca-862e-5183cc80b8fc#gs.5im237'>
     <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80242857' width="130" height="130"/>
