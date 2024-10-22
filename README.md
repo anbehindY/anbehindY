@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Greetings 
 <br>
 <div align="center">
-  <img src="./Grey And White Modern LinkedIn Article Cover Image.png" width="auto" height="auto"/>
+  <img src="./LinkedIn Cover.png" width="auto" height="auto"/>
 </div>
 <br>
 <div id="badges" align="center">
